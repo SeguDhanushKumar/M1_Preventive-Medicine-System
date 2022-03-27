@@ -22,3 +22,6 @@
 | L_01 | Delete patient record not existed  | id | id not found | id not found | pass |
 | L_02 | Login into the system | Password | Denied | Denied | pass | 
 | L_03 | checking rooms availability| Room no | Room not available | Room not available | pass |
+
+## Exit test case output
+![132303815-991d0b57-89f6-4bfa-b2ef-348edeb25366](https://user-images.githubusercontent.com/101141663/160287564-3f18d00c-e983-49f1-a71b-607a2bcc42ba.png)
